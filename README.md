@@ -33,4 +33,5 @@ Matthew Henry - Cleaning of Data, Visual
 Ifeanyi Ezugwu - Presentation, Visual
 
 **Datasets To Be Used**
-Rapidapi.com/category/music
+developer.ticketmaster.com (possibly)
+[musicbrains.org](https://musicbrainz.org/statistics)
