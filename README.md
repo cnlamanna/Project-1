@@ -24,16 +24,16 @@ This project will result in a comprehensive analysis report that outlines the th
 ### Research Questions
 1) What are the three most popular genres of music in Texas in 2022.
 2) What artist effected each genre the most in that year.
-3)How does demographics effect distribution ( age, gender)
+3) How does demographics effect distribution (age, gender)
   3a) Which demo, is listening to what more
     ex. 16-20yrs listening to this more
     
 ### Rough Breakdown of Tasks
-#####Christina LaManna - Managing GitHub, Analysis, Presentation
-#####Amara Henry - Analysis, Visual
-#####Matthew Henry - Cleaning of Data, Visual
-#####Ifeanyi Ezugwu - Presentation, Visual
+##### Christina LaManna - Managing GitHub, Analysis, Presentation
+##### Amara Henry - Analysis, Visual
+##### Matthew Henry - Cleaning of Data, Visual
+##### Ifeanyi Ezugwu - Presentation, Visual
 
 ### Datasets To Be Used
-#####developer.ticketmaster.com
-#####[musicbrains.org](https://musicbrainz.org/statistics)
+##### developer.ticketmaster.com
+##### [musicbrains.org](https://musicbrainz.org/statistics)
