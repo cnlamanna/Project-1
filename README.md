@@ -35,5 +35,10 @@ This project will result in a comprehensive analysis report that outlines the th
 #### Ifeanyi Ezugwu - Presentation, Visual
 
 ### Datasets To Be Used
-#### developer.ticketmaster.com
-#### [musicbrainz.org](https://musicbrainz.org/statistics)
+#### STATISTA
+#### [musicbrainz.org]
+#### developer.spotify.com
+#### last.fm/api
+#### https://www.kaggle.com/datasets/thedevastator/popularity-of-spotify-top-tracks-by-genre?select=dance+pop_playlist_data.csv
+#### https://www.kaggle.com/datasets/pepepython/spotify-huge-database-daily-charts-over-3-years
+#### soundcloud api
