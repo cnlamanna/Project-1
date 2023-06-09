@@ -22,18 +22,18 @@ This project will explore how demographics, including age, gender, impact the di
 This project will result in a comprehensive analysis report that outlines the three most popular music genres of 2022, highlights the artists who have significantly influenced each genre, and examines the impact of demographics on music distribution. The findings will offer valuable insights into the current music landscape, enabling a better understanding of audience preferences and the cultural dynamics of music consumption.
 
 ### Research Questions
-What are the three most popular genres of music in Texas in 2022.
-Wjat aartist effected each genre the most in that year.
-How does demographics effect distribution ( age, gender)
-  Which demo, is listening to what more
+1) What are the three most popular genres of music in Texas in 2022.
+2) What artist effected each genre the most in that year.
+3)How does demographics effect distribution ( age, gender)
+  3a) Which demo, is listening to what more
     ex. 16-20yrs listening to this more
     
 ### Rough Breakdown of Tasks
-Christina LaManna - Managing GitHub, Analysis, Presentation
-Amara Henry - Analysis, Visual
-Matthew Henry - Cleaning of Data, Visual
-Ifeanyi Ezugwu - Presentation, Visual
+#####Christina LaManna - Managing GitHub, Analysis, Presentation
+#####Amara Henry - Analysis, Visual
+#####Matthew Henry - Cleaning of Data, Visual
+#####Ifeanyi Ezugwu - Presentation, Visual
 
 ### Datasets To Be Used
-developer.ticketmaster.com
-[musicbrains.org](https://musicbrainz.org/statistics)
+#####developer.ticketmaster.com
+#####[musicbrains.org](https://musicbrainz.org/statistics)
