@@ -1,6 +1,6 @@
 # Project--1
 
-## The Sounds of Texas: Uncovering the the Most Prominent Music Genres of 2022
+## The Sounds of Texas: Uncovering the Most Prominent Music Genres of 2022
 
 ### Most Popular Genres of Music in Texas for 2022
 Matthew Henry, Amara Henry, Christina LaManna, Ifeanyi Ezugwu
