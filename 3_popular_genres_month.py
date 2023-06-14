@@ -2,7 +2,7 @@ import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
 from datetime import date
 
-# Set up the Spotify API client
+# Spotify API client
 from api_keys import client_id
 from api_keys import client_secret
 client_credentials_manager = SpotifyClientCredentials(client_id=client_id, client_secret=client_secret)
@@ -18,7 +18,7 @@ end_date = f"{current_month}-31"
 # Retrieve the top tracks of the month
 top_tracks = sp.playlist_tracks(playlist_id='37i9dQZF1DXcBWIGoYBM5M', market='US', limit=50)['items']
 
-# Get the genres for each artist
+# Loop-de-Lopp, Get the genres for each artist
 genres = []
 for track in top_tracks:
     for artist in track['track']['artists']:
@@ -30,7 +30,7 @@ for track in top_tracks:
 # Filter out genres where the genre list is empty
 filtered_genres = [genre for genre in genres if genre]
 
-# Count the occurrences of each genre
+# Count the number of times each genre occurs
 genre_counts = {}
 for genre in filtered_genres:
     genre_counts[genre] = genre_counts.get(genre, 0) + 1
