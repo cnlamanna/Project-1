@@ -22,11 +22,9 @@ This project will explore how demographics, including age, gender, impact the di
 This project will result in a comprehensive analysis report that outlines the three most popular music genres of 2022, highlights the artists who have significantly influenced each genre, and examines the impact of demographics on music distribution. The findings will offer valuable insights into the current music landscape, enabling a better understanding of audience preferences and the cultural dynamics of music consumption.
 
 ### Research Questions
-1) What are the three most popular genres of music in Texas in 2022.
-2) What artist effected each genre the most in that year.
-3) How does demographics effect distribution (age, gender)
-4) Which demo, is listening to what more
-    ex. 16-20yrs listening to this more
+1) What are the three most popular genres of music in 2022.
+2) What artist affected each genre the most in that year?
+3) How does demographics affect the popularity of those genres?
     
 ### Rough Breakdown of Tasks
 #### Christina LaManna - Managing GitHub, Analysis, Presentation
@@ -36,9 +34,6 @@ This project will result in a comprehensive analysis report that outlines the th
 
 ### Datasets To Be Used
 #### STATISTA
-#### [musicbrainz.org]
 #### developer.spotify.com
-#### last.fm/api
-#### https://www.kaggle.com/datasets/thedevastator/popularity-of-spotify-top-tracks-by-genre?select=dance+pop_playlist_data.csv
-#### https://www.kaggle.com/datasets/pepepython/spotify-huge-database-daily-charts-over-3-years
-#### soundcloud api
+#### https://www.kaggle.com/datasets/pepepython/spotify-huge-database-daily-charts-over-3-years](https://www.kaggle.com/datasets/rakkesharv/spotify-top-10000-streamed-songs?resource=download)https://www.kaggle.com/datasets/rakkesharv/spotify-top-10000-streamed-songs?resource=download
+
