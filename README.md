@@ -2,7 +2,7 @@
 
 ## Capturing the Beat of America: A Comprehensive Study of Music Genres
 
-### Most Popular Genres of Music in Texas for 2022
+### Most Popular Genres of Music for 2022
 Matthew Henry, Amara Henry, Christina LaManna, Ifeanyi Ezugwu
 
 ### Project Description/Outline
@@ -28,7 +28,7 @@ This project will result in a comprehensive analysis report that outlines the th
     
 ### Rough Breakdown of Tasks
 #### Christina LaManna - Managing GitHub, Analysis, Presentation
-#### Amara Henry - Analysis, Visual
+#### Amara Henry - Cleaning of Data, Analysis, Visual
 #### Matthew Henry - Cleaning of Data, Visual
 #### Ifeanyi Ezugwu - Presentation, Visual
 
