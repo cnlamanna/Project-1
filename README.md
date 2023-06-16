@@ -7,7 +7,7 @@ Matthew Henry, Amara Henry, Christina LaManna, Ifeanyi Ezugwu
 
 ### Project Description/Outline
 #### Project Description:
-This project aims to provide a comprehensive analysis of music genre popularity in Texas in 2022, identify the most influential artists within each genre during this period, and examine how demographics, including age, gender, impact the distribution of music preferences.
+This project aims to provide a comprehensive analysis of music genre popularity in 2022, identify the most influential artists within each popular genre during this period, and examine how certain demographics impact the distribution of music preferences.
 
 ##### Objective 1: Determining the Three Most Popular Music Genres
 By analyzing various sources, including music sales, streaming data, and charts, this project will identify and rank the three most popular music genres in 2022. The analysis will consider factors such as album sales, digital downloads, streaming statistics, and overall audience engagement to establish the genres that have resonated the most with listeners during this period.
@@ -35,5 +35,5 @@ This project will result in a comprehensive analysis report that outlines the th
 ### Datasets To Be Used
 #### STATISTA
 #### developer.spotify.com
-#### https://www.kaggle.com/datasets/pepepython/spotify-huge-database-daily-charts-over-3-years](https://www.kaggle.com/datasets/rakkesharv/spotify-top-10000-streamed-songs?resource=download)https://www.kaggle.com/datasets/rakkesharv/spotify-top-10000-streamed-songs?resource=download
+#### https://www.kaggle.com/datasets/pepepython/spotify-huge-database-daily-charts-over-3-years](https://www.kaggle.com/datasets/rakkesharv/spotify-top-10000-streamed-songs?resource=download
 
