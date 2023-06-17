@@ -8,7 +8,7 @@ client_credentials_manager = SpotifyClientCredentials(client_id=client_id, clien
 sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
 
 # input genres to search for 
-genres = ['rock', 'pop', 'rap']
+genres = ['rock', 'electronica', 'rap', 'gospel']
 
 # Loop-de-Loop through each genre and retrieve  top artists
 for genre in genres:
