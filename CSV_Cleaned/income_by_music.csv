@@ -1,4 +1,17 @@
-Household Income,Total - Music and show preferences by genre,Classical music,Country music,Dance / electronic music,Folk music,Jazz and blues,Pop / adult contemporary music,Religious,Rock / alternative / indie music,Urban music (hip hop, R&B, etc.),World music,Other,Don't know
-High income ,35%,48%,36%,39%,47%,44%,34%,38%,34%,30%,44%,25%,20%
-Medium income ,33%,25%,33%,28%,27%,29%,34%,31%,35%,34%,27%,34%,32%
-Low income ,32%,27%,31%,33%,26%,27%,32%,32%,31%,36%,29%,41%,48%
+Household Income,Classical music,Country music,Dance / electronic music,Folk music,Jazz and blues,Pop / adult contemporary music,Religious,Rock / alternative / indie music,"Urban music (hip hop, R&B, World)",World,Other,Don't Know
+High income ,48%,36%,39%,47%,44%,34%,38%,34%,30%,44%,25%,20%
+Medium income ,25%,33%,28%,27%,29%,34%,31%,35%,34%,27%,34%,32%
+Low income ,27%,31%,33%,26%,27%,32%,32%,31%,36%,29%,41%,48%
+,,,,,,,,,,,,
+popularity of genres by income,,,,,,,,,,,,
+,10.93%,8.20%,8.88%,10.71%,10.02%,7.74%,8.66%,7.74%,6.83%,10.02%,5.69%,4.56%
+,6.78%,8.94%,7.59%,7.32%,7.86%,9.21%,8.40%,9.49%,9.21%,7.32%,9.21%,8.67%
+,6.87%,7.89%,8.40%,6.62%,6.87%,8.14%,8.14%,7.89%,9.16%,7.38%,10.43%,12.21%
+,,,,,,,,,,,,
+Total,24.58%,25.03%,24.87%,24.64%,24.75%,25.10%,25.20%,25.12%,25.21%,24.72%,25.34%,25.44%
+,,,,,,,,,,,,
+Top 3 genres,don't know,25.44%,,,,,,,,,,
+,other,25.34%,,,,,,,,Outlier:,,
+,urban,25.21%,,,,,,,,,,
+,religious,25.20%,,,,,,,,,,
+,rock,25.12%,,,,,,,,,,
