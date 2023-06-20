@@ -41,6 +41,7 @@ This project will result in a comprehensive analysis report that outlines the th
     https://www.kaggle.com/datasets/pepepython/spotify-huge-database-daily-charts-over-3-years](https://www.kaggle.com/datasets/rakkesharv/spotify-top-10000-streamed-songs?resource=download
 
 ## Analysis
+Notes: During the data analysis process, we encountered a significant limitation concerning the categorization of music genres. Specifically, two options, namely "other" and "don't know," were included among the genres under consideration. Following data cleaning procedures, we observed that these two categories became more prevalent than the other defined music genres. While we acknowledge the inclusion of these choices in the dataset for accuracy purposes, it is important to note that we will omit the fact that the "other" genre ranked first in terms of prevalence among the actual genres and for the duration of time examined in our presentation.
 ### Question #1
 #### What are the three most popular genres of music in 2022?
 Through thorough analysis of music preference surveys using Statista, we meticulously filtered the raw data based on key demographic factors such as age, gender identity, ethnicity, and state. Our dataset encompassed 59,934 respondents, intended to represent the 187.4 million internet users in the United States during the survey year of 2022.
