@@ -58,6 +58,8 @@ Furthermore, to validate the accuracy of our statistical calculations, we utiliz
 We cross-referenced our findings with the Spotify data and confirmed that our analysis aligned with the trends observed on the platform. Although our "Other" preference limitation occupied the top rank, our identification of dance/electronica, rock/alternative, and the urban genre (hip hop/R&B/rap) in the top three positions were indeed accurate.
 
 This integration of statistical analysis and real-world data from Spotify serves as a robust validation of our findings, reinforcing the reliability of our methodology and results.
+
+It is also important to note, that while we were able to validate our findings by comparing them to Spotipy data, it's important to note that the scope of Spotipy's data is limited. We could only compare our data to individual months within a specific year or access "live" preferences. Obtaining comprehensive information on top popular artists or genres for an entire year requires "professional authorization" from Spotify. Therefore, our analysis focused on the available data and provided insights based on the given constraints.
 ### Question #2
 #### What artist affected each genre the most in that year?
 
@@ -78,3 +80,4 @@ Lastly, we considered the geographic dimension by analyzing music preferences ac
 Through our comprehensive statistical analysis across these various demographic factors, we gained valuable insights into the music preferences of the surveyed population. The rankings and trends observed in the data were further corroborated by cross-referencing with real-time data from the Spotify platform, ensuring the reliability and accuracy of our findings.
 
 ### Conclusion
+In conclusion, based on our analysis of the available data for the year 2022, the top genres in the United States were Dance/Electronica, Rock/Alternative, and a tie between Urban (HipHop/R&B/Rap) and Religious. These rankings were determined by comparing the occurrences and rankings of each music preference dataset against different audience demographics. It's important to note that while we had the total number of respondents, our data was limited in terms of knowing the exact number of respondents within each category of a specific demographic when compiling preferences across all music genres. Nevertheless, we are confident in our statistical calculations, and we validated our findings by comparing them to Spotipy data, specifically looking at individual months in 2022.
