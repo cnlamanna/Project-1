@@ -63,4 +63,18 @@ This integration of statistical analysis and real-world data from Spotify serves
 
 ### Question #3
 #### How do demographics affect the popularity of those genres?
+Utilizing the meticulously cleaned dataset, we conducted an in-depth analysis of music preferences based on various demographic factors, including Household Income, Gender, Ethnicity, Age, and residing State.
 
+For the Household Income categories (low, medium, high), we observed that the dominance of the "other" and "don't know" categories necessitated expanding the top 3 genres to the top 4. Consequently, the top genres were ranked as follows: #1: don't know, #2: other, #3: urban, #4: religious, and #5: rock. The influence of the "other" and "don't know" categories posed limitations on determining the top 3 genres.
+
+When considering Gender, we focused on the male and female categories due to limited data availability from the LGBTQ+ community. Within this subset, the top 3 genres emerged as follows: #1: pop, #2: a tie between don't know, urban, religious, and country, and #3: jazz. The reduction in gender categories resulted in more concentrated preferences, leading to a compromise in the second-place ranking due to a tie.
+
+Analyzing preferences by Ethnicity, we examined categories such as Asian, Black/African American, Native Hawaiian, White/Caucasian, and Other (ethnicities with a share of less than 1%), while also accounting for respondents who preferred not to disclose their ethnicity. The top genres derived from this analysis were: #1: don't know, #2: world, #3: other, and #4: a tie between dance/electronica and urban (hip hop/R&B/rap).
+
+Within the Age category, we divided respondents into three groups: 18-29 years, 30-49 years, and 50-64 years. After calculating preferences within each age group, we aggregated the data to determine the overall percentage distribution of preferences for each genre. The top genres based on this analysis were: #1: don't know, #2: other, #3: rock/alternative, #4: pop, and #5: jazz. The age-based analysis provided clearer rankings due to more focused age ranges.
+
+Lastly, we considered the geographic dimension by analyzing music preferences across different states, including the District of Columbia. By removing states and districts that accounted for less than 2% of the votes, we obtained a refined dataset consisting of 23 states. The results showcased distinct and resounding preferences, with the top genres being: #1: other, #2: dance/electronic, #3: rock/alternative, and #4: urban (hip hop/R&B/rap).
+
+Through our comprehensive statistical analysis across these various demographic factors, we gained valuable insights into the music preferences of the surveyed population. The rankings and trends observed in the data were further corroborated by cross-referencing with real-time data from the Spotify platform, ensuring the reliability and accuracy of our findings.
+
+### Conclusion
