@@ -40,3 +40,27 @@ This project will result in a comprehensive analysis report that outlines the th
 #### KAGGLE
     https://www.kaggle.com/datasets/pepepython/spotify-huge-database-daily-charts-over-3-years](https://www.kaggle.com/datasets/rakkesharv/spotify-top-10000-streamed-songs?resource=download
 
+## Analysis
+### Question #1
+#### What are the three most popular genres of music in 2022?
+Through thorough analysis of music preference surveys using Statista, we meticulously filtered the raw data based on key demographic factors such as age, gender identity, ethnicity, and state. Our dataset encompassed 59,934 respondents, intended to represent the 187.4 million internet users in the United States during the survey year of 2022.
+
+To ensure data accuracy, we eliminated categories with a response rating of 2% or less, including ethnicities such as American Indian or Alaskan Native, as well as unresponsive states. With the cleaned CSV data in hand, we proceeded to calculate the percentages of music preferences across our specified filters.
+
+Among the music genres, namely Classical, Country, Dance/Electronic, Folk, Jazz & Blues, Pop/Adult Contemporary, Religious, Hip Hop/R&B/Rap, World, Other, and Don't Know, we encountered certain limitations in our analysis. Notably, the prevailing preference across various demographics appeared to be the category of "don't know," indicating respondents either had difficulty deciding or lacked a specific preference.
+
+Acknowledging this limitation, we expanded our top three genres until we obtained concrete music genre categories to consider. Accounting for this challenge, we identified the top genres within each audience segment, namely state, income, gender, ethnicity, and age. By leveraging Excel, we compared the ratings of each genre and established the following rankings: #1: Other, #2: Dance/Electronica, #3: Rock/Alternative, and #4: a tie between the Urban genre (Hip Hop/R&B/Rap) and Religious.
+
+These findings provide valuable insights into the music preferences of different demographic groups, despite the aforementioned limitations. 
+
+Furthermore, to validate the accuracy of our statistical calculations, we utilized the Spotipy library in Python to develop an algorithm that interacted with the Spotify platform. This algorithm allowed us to compare our calculated top genres with the actual top genres observed on Spotify during the months of 2022.
+
+We cross-referenced our findings with the Spotify data and confirmed that our analysis aligned with the trends observed on the platform. Although our "Other" preference limitation occupied the top rank, our identification of dance/electronica, rock/alternative, and the urban genre (hip hop/R&B/rap) in the top three positions were indeed accurate.
+
+This integration of statistical analysis and real-world data from Spotify serves as a robust validation of our findings, reinforcing the reliability of our methodology and results.
+### Question #2
+#### What artist affected each genre the most in that year?
+
+### Question #3
+#### How do demographics affect the popularity of those genres?
+
